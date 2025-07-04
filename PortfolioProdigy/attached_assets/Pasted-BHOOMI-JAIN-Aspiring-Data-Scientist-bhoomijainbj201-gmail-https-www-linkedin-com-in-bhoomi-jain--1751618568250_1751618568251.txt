@@ -1,0 +1,36 @@
+BHOOMI JAIN
+Aspiring Data Scientist
+bhoomijainbj201@gmail — https://www.linkedin.com/in/bhoomi-jain-b2857428a — 9518270384
+Education
+• B.Tech Computer Engineering and Data Science , J.C. Bose University, YMCA, Faridabad CGPA: 8.3
+• Class 12, Vishwa Bharti Public School, Jagadhri, Haryana (2023) Percentage: 83%
+• Class 10, St. Thomas School, Jagadhri, Haryana Percentage: 93%
+• JEE Mains Rank: 66,678 JEE Advanced Rank: 18,452
+Technical Skills
+• Programming Languages: Python, Java, SQL
+• Data Science : Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Deeplearning( pytorch,CNN, ANNs)
+• Web Development: HTML, CSS, JavaScript, Flask, Streamlit
+• Data Structures & Algorithms: Solved DSA problems on LeetCode, Codeforces, GFG, CodeChef
+Projects
+Fashion MNIST Image Classification
+Tech Stack: Python, PyTorch, Google Colab (GPU), scikit-learn, NumPy, Matplotlib
+• Built a CNN model using PyTorch to classify Fashion MNIST images into 10 clothing categories.
+• Designed custom Dataset and DataLoader for efficient GPU-accelerated training.
+• Implemented Conv2D, ReLU, BatchNorm, MaxPooling, and Dropout layers for robust performance.
+• Achieved 88% test accuracy using CrossEntropyLoss and SGD with L2 regularization.
+To-Do List Web Application
+Tech Stack: HTML, CSS, JavaScript, Flask, Jinja2, SQLite
+• Built a full-stack task manager using Flask for backend logic and Jinja2 for dynamic templating.
+• Integrated JavaScript for real-time task updates without page reloads.
+• Designed a responsive UI with HTML/CSS for seamless cross-device usability.
+• Used SQLite to persist user tasks with efficient CRUD operations.
+Experience
+• Student Coordinator, Manan Technical Club
+– Led technical workshops and organized student collaboration activities.
+– Organized a 24-hour university-level hackathon with 700+ participants from across the country.
+• Student Coordinator, Placement Training Cell – UDAAN
+– Mentored 100+ students during placement training programs.
+– Conducted resume reviews, mock interviews, and company interaction sessions.
+Certifications & Achievements
+• Secured 3rd position in a coding competition organized by IEEE YMCA.
+• Conducted and hosted a beginner-friendly session on Machine Learning.
